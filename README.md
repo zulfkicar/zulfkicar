@@ -22,7 +22,7 @@ Workledger and First Mile include runnable backends, Docker setup, behavioral te
 
 ## Historical market research
 
-[Crash Lab](https://zulfkicar.github.io/crash-lab/) — an exploratory workspace with 17 market-decline windows, aligned recovery comparisons, all-month signal tests, and reproducible primary-source snapshots.
+[Crash Lab](https://zulfkicar.github.io/crash-lab/) — an exploratory workspace with 17 market-decline windows, aligned recovery comparisons, all-month signal tests, source snapshots, and a PakMarkets-based PSX breadth and macro view with explicit coverage.
 
 ## Background
 
