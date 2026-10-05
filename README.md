@@ -20,6 +20,10 @@ Workledger and First Mile include runnable backends, Docker setup, behavioral te
 
 [Explore the playground](https://zulfkicar.github.io/#playground) for fluid painting, flocking, algorithms, regex, reaction–diffusion, Huffman compression, chart experiments, and hand-tracked drawing.
 
+## Historical market research
+
+[Crash Lab](https://zulfkicar.github.io/crash-lab/) — an exploratory workspace with 17 market-decline windows, aligned recovery comparisons, all-month signal tests, and reproducible primary-source snapshots.
+
 ## Background
 
 - BS Artificial Intelligence graduate with a competitive-programming background.
