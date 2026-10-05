@@ -1,27 +1,28 @@
-# Hey, I'm Zulfiqar
+# Zulfiqar Ali
 
-Everything's a puzzle. I take it apart.
+I build internal tools and AI-assisted workflows for business operations. My work includes Cloudflare Workers integrations, SQL data systems, and moving repetitive processes into maintainable code.
 
-I open things up — models, markets, engines — to see how they actually work, then
-build something better. AI grad, ICPC World Finalist, currently building AI
-automations for a SaaS team. Open to remote roles.
+**[Portfolio and interactive demos →](https://zulfkicar.github.io/)**
 
-**The workbench: [zulfkicar.github.io](https://zulfkicar.github.io)** — everything
-I've taken apart, with honest statuses on every card. A few of them:
+## Selected work
 
-- [the crash lab](https://zulfkicar.github.io/crash-lab/) — trying to predict the
-  next great market crash, in the open. No edge yet; the teardown is the point.
-- [paint with code](https://zulfkicar.github.io/playground/paint-with-code/) — a real
-  fluid sim in your browser. v1 pushed particles around; v2 actually paints.
-- [a regex engine](https://zulfkicar.github.io/playground/regex-engine/) — wrote one
-  from scratch to find out what really happens between the slashes. The machine is
-  drawn live.
-- [algorithm visualiser](https://zulfkicar.github.io/playground/algorithms/) — A*,
-  quicksort, convex hulls, and a TSP tour untangling itself.
-- [guess the next candle](https://zulfkicar.github.io/playground/guess-the-candle/) —
-  real market data, hidden future. Nobody has beaten the coin yet, including me.
+| Project | What you can inspect |
+|---|---|
+| [Workledger](https://github.com/zulfkicar/workledger) · [Demo](https://zulfkicar.github.io/apps/workledger/) | Task-linked time tracking, team reports, evidence-backed automation opportunities, and scheduled briefs |
+| [First Mile](https://github.com/zulfkicar/client-onboarding) · [Demo](https://zulfkicar.github.io/apps/client-onboarding/) | Reviewed onboarding plans, durable execution, authenticated webhooks, and held-run recovery |
+| [Pitlane](https://github.com/zulfkicar/pitlane) | Run a PR, branch, or commit in an isolated local worktree |
 
-On the bench next: an LLM from nothing, a chess engine that thinks for itself, and a
-tool that turns any PR into a running local preview in one click.
+Workledger and First Mile include runnable backends, Docker setup, behavioral tests, and synthetic examples. Public browser demos run locally in your browser. Optional AI providers are configured in the self-hosted apps.
 
-Got something that needs taking apart? mzulfiqarali261@gmail.com
+## Background
+
+- BS Artificial Intelligence graduate with a competitive-programming background.
+- Migrated Zapier workflows to Cloudflare Workers, reducing task consumption by 50%.
+- Built an internal knowledge assistant using MCP, pgvector, and multiple model providers.
+- Prepared ICPC problem packages, including custom checkers and interactors.
+
+I work with JavaScript, Python, C++, SQL, APIs, webhooks, and Cloudflare Workers.
+
+Open to remote AI automation and software engineering roles.
+
+[Email](mailto:mzulfiqarali261@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ZulfiqarAli261/) · [Portfolio](https://zulfkicar.github.io/)
