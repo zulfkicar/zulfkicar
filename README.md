@@ -6,13 +6,19 @@ I build internal tools and AI-assisted workflows for business operations. My wor
 
 ## Selected work
 
-| Project | What you can inspect |
-|---|---|
-| [Workledger](https://github.com/zulfkicar/workledger) · [Demo](https://zulfkicar.github.io/apps/workledger/) | Task-linked time tracking, team reports, evidence-backed automation opportunities, and scheduled briefs |
-| [First Mile](https://github.com/zulfkicar/client-onboarding) · [Demo](https://zulfkicar.github.io/apps/client-onboarding/) | Reviewed onboarding plans, durable execution, authenticated webhooks, and held-run recovery |
-| [Pitlane](https://github.com/zulfkicar/pitlane) | Run a PR, branch, or commit in an isolated local worktree |
+| Project                                                                                                                    | What you can inspect                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Workledger](https://github.com/zulfkicar/workledger) · [Demo](https://zulfkicar.github.io/apps/workledger/)               | Task-linked time tracking, team reports, evidence-backed automation opportunities, and scheduled briefs |
+| [First Mile](https://github.com/zulfkicar/client-onboarding) · [Demo](https://zulfkicar.github.io/apps/client-onboarding/) | Reviewed onboarding plans, durable execution, authenticated webhooks, and held-run recovery             |
+| [Pitlane](https://github.com/zulfkicar/pitlane)                                                                            | Run a PR, branch, or commit in an isolated local worktree                                               |
 
 Workledger and First Mile include runnable backends, Docker setup, behavioral tests, and synthetic examples. Public browser demos run locally in your browser. Optional AI providers are configured in the self-hosted apps.
+
+## Engines and experiments
+
+[Between Moves](https://github.com/zulfkicar/between-moves) · [Play and explore](https://zulfkicar.github.io/playground/chess/) — an original browser chess engine with visible search, local endgame tables, and opponent memory.
+
+[Explore the playground](https://zulfkicar.github.io/#playground) for fluid painting, flocking, algorithms, regex, reaction–diffusion, Huffman compression, chart experiments, and hand-tracked drawing.
 
 ## Background
 
