@@ -4,7 +4,7 @@ I build internal tools and AI-assisted workflows for business operations. My wor
 
 **[Portfolio and interactive demos →](https://zulfkicar.github.io/)**
 
-## Selected work
+## Automation & integrations
 
 | Project                                                                                                                    | What you can inspect                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -14,25 +14,25 @@ I build internal tools and AI-assisted workflows for business operations. My wor
 | [First Mile](https://github.com/zulfkicar/client-onboarding) · [Demo](https://zulfkicar.github.io/apps/client-onboarding/) | Reviewed onboarding plans, durable execution, authenticated webhooks, and held-run recovery             |
 | [Pitlane](https://github.com/zulfkicar/pitlane)                                                                            | Run a PR, branch, or commit in an isolated local worktree                                               |
 
-The public demos use synthetic examples and simulated integrations. Unzap runs its actual compiler locally. Threadbridge runs its actual planner and journal with browser SQLite. Full repositories include backend setup and tests. Provider credentials and private training exports are not included.
+The browser demos run without accounts and use simulated service responses. Unzap runs its compiler locally, and Threadbridge runs its planner and journal with browser SQLite. Full repositories include backend setup and tests.
 
-## At Baam
+## Production systems
 
-**AI Implementation and Automation Specialist · September 2025–Present · Remote**
+**Baam LLC · AI Implementation and Automation Specialist · September 2025–Present · Remote**
 
 I build and maintain systems for company knowledge, workforce operations, and cross-platform records, alongside automation workflows across Slack, Airtable, Hubstaff, and internal databases.
 
 - **AI memory layer:** Built a Cloudflare-hosted memory layer with a fine-tuned LLM backend, MCP, and pgvector. Prepared and cleaned internal process documentation, generated embeddings, and integrated Claude, OpenAI, and Gemini for responses grounded in company knowledge.
 - **Central workforce application:** Built and maintain a React, TypeScript, tRPC, and SQL application with bidirectional Airtable sync. Tasks, time logs, team activity, management reports, and KPIs give management visibility into what the team is working on, time spent, and bottlenecks.
-- **Ticket synchronization:** Built and maintained bidirectional Slack–internal ticketing sync, with ticket records synchronized to Airtable for record keeping. This workflow represented roughly half of the company's total Zapier task usage.
+- **Ticket synchronization:** Built and maintained bidirectional Slack–ticketing sync, with ticket records synchronized to Airtable for record keeping. This workflow represented roughly half of the company's total Zapier task usage.
 - **Cost and operational impact:** Migrated Zapier automations to Cloudflare Workers, reducing task consumption by **50%** and saving **over $25,000 in task costs**. AI-assisted tools, research, and operational improvements helped save **over $15,000 annually**. These figures are reported separately.
 - **Team enablement and data handling:** Helped teammates move from no-code tools to maintainable code-based automations. Masked customer data and enforced access controls and internal-network restrictions on sharing and export.
 
 These are workplace systems. The public repositories above are separate implementations with synthetic examples, rather than releases of Baam's code or data.
 
-[Read about the Baam work on my portfolio →](https://zulfkicar.github.io/#baam)
+[Explore the production systems →](https://zulfkicar.github.io/#work)
 
-[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the workforce platform, ticket synchronization, support monitoring, usage reporting, employee acknowledgment workflows, billing-request tracking, historical automation alerts, and escalation routing. Eleven interactive maps include zoom and pan plus 95 component explanations covering function, design reasoning, and limitations. A sanitized export inventory also shows the wider range of name-tagged workflows. The memory layer has a separate written overview of its confirmed capabilities. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
+[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the workforce platform, ticket synchronization, support monitoring, usage reporting, employee acknowledgment workflows, billing-request tracking, historical automation alerts, and escalation routing. Eleven interactive maps include zoom and pan plus 95 component explanations covering function, design reasoning, and limitations. Case studies are grouped by Applied AI, Business Software, Automation & Integrations, and Reliability & Analytics. The memory layer has a separate system overview. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
 
 ## Engines and experiments
 
