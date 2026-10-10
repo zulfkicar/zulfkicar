@@ -20,9 +20,8 @@ The browser demos run without accounts and use simulated service responses. Unza
 
 **Baam LLC · AI Implementation and Automation Specialist · September 2025–Present · Remote**
 
-I build and maintain systems for company knowledge, workforce operations, and cross-platform records, alongside automation workflows across Slack, Airtable, Hubstaff, and internal databases.
+I build and maintain systems for workforce operations and cross-platform records, alongside automation workflows across Slack, Airtable, Hubstaff, and internal databases.
 
-- **AI memory layer:** Built a Cloudflare-hosted memory layer with a fine-tuned LLM backend, MCP, and pgvector. Prepared and cleaned internal process documentation, generated embeddings, and integrated Claude, OpenAI, and Gemini for responses grounded in company knowledge.
 - **Central workforce application:** Built and maintain a React, TypeScript, tRPC, and SQL application with bidirectional Airtable sync. Tasks, time logs, team activity, management reports, and KPIs give management visibility into what the team is working on, time spent, and bottlenecks.
 - **Ticket synchronization:** Built and maintained bidirectional Slack–ticketing sync, with ticket records synchronized to Airtable for record keeping. This workflow represented roughly half of the company's total Zapier task usage.
 - **Cost and operational impact:** Migrated Zapier automations to Cloudflare Workers, reducing task consumption by **50%** and saving **over $25,000 in task costs**. AI-assisted tools, research, and operational improvements helped save **over $15,000 annually**. These figures are reported separately.
@@ -32,7 +31,7 @@ These are workplace systems. The public repositories above are separate implemen
 
 [Explore the production systems →](https://zulfkicar.github.io/#work)
 
-[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the workforce platform, ticket synchronization, support monitoring, usage reporting, employee acknowledgment workflows, billing-request tracking, historical automation alerts, and escalation routing. Eleven interactive maps include zoom and pan plus 95 component explanations covering function, design reasoning, and limitations. Case studies are grouped by Applied AI, Business Software, Automation & Integrations, and Reliability & Analytics. The memory layer has a separate system overview. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
+[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the workforce platform, ticket synchronization, support monitoring, usage reporting, employee acknowledgment workflows, billing-request tracking, historical automation alerts, and escalation routing. Eleven interactive maps include zoom and pan plus 95 component explanations covering function, design reasoning, and limitations. Case studies are grouped by Business Software, Automation & Integrations, and Reliability & Analytics. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
 
 ## Engines and experiments
 
