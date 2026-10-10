@@ -32,7 +32,7 @@ These are workplace systems. The public repositories above are separate implemen
 
 [Read about the Baam work on my portfolio →](https://zulfkicar.github.io/#baam)
 
-[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the central workforce platform, ticket synchronization, EchoBot support monitoring, and usage observability. Seven diagrams accompany the problem, execution flow, engineering decisions, and scope. The memory layer has a separate written overview of its confirmed capabilities. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
+[Engineering case studies and architecture diagrams →](https://zulfkicar.github.io/case-studies/): the workforce platform, ticket synchronization, support monitoring, usage reporting, employee acknowledgment workflows, billing-request tracking, historical automation alerts, and escalation routing. Eleven interactive maps include zoom and pan plus 95 component explanations covering function, design reasoning, and limitations. A sanitized export inventory also shows the wider range of name-tagged workflows. The memory layer has a separate written overview of its confirmed capabilities. [Mermaid sources](https://github.com/zulfkicar/zulfkicar.github.io/tree/main/case-studies) are available for a deeper look.
 
 ## Engines and experiments
 
