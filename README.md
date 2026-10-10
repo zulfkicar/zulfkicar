@@ -8,11 +8,13 @@ I build internal tools and AI-assisted workflows for business operations. My wor
 
 | Project                                                                                                                    | What you can inspect                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Unzap](https://github.com/zulfkicar/unzap) · [Demo](https://zulfkicar.github.io/apps/unzap/) | Local Zap export conversion, mapping review, compiled branch replay, code export, and a trained migration proposal model |
+| [Threadbridge](https://github.com/zulfkicar/threadbridge) · [Demo](https://zulfkicar.github.io/apps/threadbridge/) | Bidirectional Slack/Jira delivery, real browser SQLite journal, duplicate suppression, and uncertain-write recovery |
 | [Workledger](https://github.com/zulfkicar/workledger) · [Demo](https://zulfkicar.github.io/apps/workledger/)               | Task-linked time tracking, team reports, evidence-backed automation opportunities, and scheduled briefs |
 | [First Mile](https://github.com/zulfkicar/client-onboarding) · [Demo](https://zulfkicar.github.io/apps/client-onboarding/) | Reviewed onboarding plans, durable execution, authenticated webhooks, and held-run recovery             |
 | [Pitlane](https://github.com/zulfkicar/pitlane)                                                                            | Run a PR, branch, or commit in an isolated local worktree                                               |
 
-Workledger and First Mile include runnable backends, Docker setup, behavioral tests, and synthetic examples. Public browser demos run locally in your browser. Optional AI providers are configured in the self-hosted apps.
+The public demos use synthetic examples and simulated integrations. Unzap runs its actual compiler locally. Threadbridge runs its actual planner and journal with browser SQLite. Full repositories include backend setup and tests. Provider credentials and private training exports are not included.
 
 ## Engines and experiments
 
