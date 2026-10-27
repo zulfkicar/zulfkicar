@@ -18,7 +18,7 @@ The browser demos run without accounts and use simulated service responses. Unza
 
 ## Production systems
 
-**Baam LLC · AI Implementation and Automation Specialist · September 2025–Present · Remote**
+**Baam · AI Implementation and Automation Specialist · September 2025–Present · Remote**
 
 I build and maintain systems for workforce operations and cross-platform records, alongside automation workflows across Slack, Airtable, Hubstaff, and internal databases.
 
@@ -26,8 +26,6 @@ I build and maintain systems for workforce operations and cross-platform records
 - **Ticket synchronization:** Built and maintained bidirectional Slack–ticketing sync, with ticket records synchronized to Airtable for record keeping. This workflow represented roughly half of the company's total Zapier task usage.
 - **Cost and operational impact:** Migrated Zapier automations to Cloudflare Workers, reducing task consumption by **50%** and saving **over $25,000 in task costs**. AI-assisted tools, research, and operational improvements helped save **over $15,000 annually**. These figures are reported separately.
 - **Team enablement and data handling:** Helped teammates move from no-code tools to maintainable code-based automations. Masked customer data and enforced access controls and internal-network restrictions on sharing and export.
-
-These are workplace systems. The public repositories above are separate implementations with synthetic examples, rather than releases of Baam's code or data.
 
 [Explore the production systems →](https://zulfkicar.github.io/#work)
 
@@ -46,9 +44,9 @@ These are workplace systems. The public repositories above are separate implemen
 ## Background
 
 - BS Artificial Intelligence graduate with a competitive-programming background.
-- Prepared ICPC problem packages, including custom checkers and interactors.
+- Problem Setter for ICPC Regionals Asia Topi.
 
-I work with JavaScript, Python, C++, SQL, APIs, webhooks, and Cloudflare Workers.
+I work with JavaScript, Python, C++, SQL, APIs, webhooks, and Cloudflare Workers and anything else needed for the job.
 
 Open to remote AI automation and software engineering roles.
 
